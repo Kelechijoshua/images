@@ -9,6 +9,22 @@
   padding: 0;
 }
 
+<<<<<<< HEAD
+=======
+                
+
+/* header{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(./backgrounds/hero-image.jpg);
+  background-position: bottom;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+} */
+>>>>>>> 0c26f8de64ea9e0e42b20c4c3fd15a6f0634536f
 
 
 .bg-img{
@@ -95,8 +111,13 @@
   display: flex;
   align-items: center;
   gap: 45px;
+<<<<<<< HEAD
   margin-left: -98px;
   margin-top: 100px;
+=======
+  margin-left: -78px;
+  margin-top: 60px;
+>>>>>>> 0c26f8de64ea9e0e42b20c4c3fd15a6f0634536f
   font-weight: bold;
   font-family: metropolis;
 }
